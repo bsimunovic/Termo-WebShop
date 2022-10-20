@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880925682692",
+    "project_id": "termo-301022",
+    "storage_bucket": "termo-301022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880925682692:android:57df93b93bd5ba3cdf9951",
+        "android_client_info": {
+          "package_name": "com.shadomix.termo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880925682692-ig5ujui3bhta4tg70eq6e6dfdtlovavs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEI7UmREVv-aFdKVvbrPapDSZy7g6QdBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880925682692-ig5ujui3bhta4tg70eq6e6dfdtlovavs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
